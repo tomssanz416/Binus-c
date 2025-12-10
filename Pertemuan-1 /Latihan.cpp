@@ -12,8 +12,9 @@ Deklarasi:
 PI = 3.14
 r
 Implementasi:
+Input PI
 Input r
-luas = 3.14 * r * r  
+luas = PI * r * r  
 Tampilkan luas
 
 Judul: Menentukan Kelulusan Siswa
