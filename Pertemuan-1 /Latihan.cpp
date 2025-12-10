@@ -58,11 +58,6 @@ Jika menu = kelvin ke fahrenheit
   tampilkan suhu sesudah
 */
 
-CETAK nama kamu
-CETAK asal kamu
-CETAK pekerjaanmu
-CETAK negara asalmu
-CETAK hal yang kamu suka
 #include (stdio.h)
 int main(){
   printf("nama /t: Tommy");
